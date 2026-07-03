@@ -87,7 +87,7 @@ _Crescent Castle Public School — 89.3%_
 🥇 MERNATHON Hackathon Winner  
 💻 MERN Stack (MongoDB, Express.js, React.js, Node.js) — Built a MERN-stack attendance system that validates office IP addresses to automatically prevent proxy/buddy logins, removing the need for manual attendance audits. Implemented JWT-based role authentication for admins and employees, with secured API routes and a real-time dashboard for tracking attendance as employees check in. Led full-stack development (frontend + backend) team advanced through multiple rounds to win MERNATHON 2025.
 
-💼 **Blossom Corner - Flower Bouquet E-Commerce Website**   
+🌸 **Blossom Corner - Flower Bouquet E-Commerce Website**   
 💻 MongoDB, Express.js, React.js, Node.js — Developed a full-stack e-commerce web application for a flower shop using the MERN stack. Implemented product management, shopping cart, user authentication, and order management with a responsive React frontend. Built RESTful APIs with Express.js and Node.js, integrated MongoDB for data storage, and performed CRUD operations for products, users, and orders.
 
 ---
