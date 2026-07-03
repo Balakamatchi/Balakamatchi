@@ -94,14 +94,11 @@ _Crescent Castle Public School — 89.3%_
 
 ## 📜 INTERNSHIPS & TRAINING
 
-**📊 MERN Stack Developer Training — Besant Technologies, Velachery - (June 2026 - Present)**   
-•	Completed MERN stack training and Developed Blossom Corner, a responsive flower bouquet e-commerce web application using the MERN, with features including user authentication, product management, shopping cart, order management, and RESTful API integration. 
+**📊 MERN Stack Developer Training — Besant Technologies, Velachery - (June 2026 - Present)** •	Completed MERN stack training and Developed Blossom Corner, a responsive flower bouquet e-commerce web application using the MERN, with features including user authentication, product management, shopping cart, order management, and RESTful API integration. 
 
-**📊 MERN Stack Certification — KGiSL MicroCollege - (Oct 2025)**
-• Completed an intensive MERN Stack training program sponsored by Naan Mudhalvan and the Tamil Nadu Skill Development Corporation, and developed IP Attend, an IP-based employee attendance system using the MERN Stack. 
+**📊 MERN Stack Certification — KGiSL MicroCollege - (Oct 2025)** • Completed an intensive MERN Stack training program sponsored by Naan Mudhalvan and the Tamil Nadu Skill Development Corporation, and developed IP Attend, an IP-based employee attendance system using the MERN Stack. 
 
-**🌐 Web Development Intern — InternPE, Jaipur (Remote) -	(Apr 2024)**
-•	Completed a certificate-based web development program building responsive web pages and a functional calculator application using HTML, CSS, and JavaScript.
+**🌐 Web Development Intern — InternPE, Jaipur (Remote) -	(Apr 2024)** • Completed a certificate-based web development program building responsive web pages and a functional calculator application using HTML, CSS, and JavaScript.
 
 ---
 
