@@ -94,7 +94,7 @@ _Crescent Castle Public School — 89.3%_
 
 ## 📜 INTERNSHIPS & TRAINING
 
-**📊 MERN Stack Developer Training — Besant Technologies, Velachery - (June 2026 - Present)**              
+**📊 MERN Stack Developer Training — Besant Technologies, Velachery - (June 2026 - Present)**   
 •	Completed MERN stack training and Developed Blossom Corner, a responsive flower bouquet e-commerce web application using the MERN, with features including user authentication, product management, shopping cart, order management, and RESTful API integration. 
 
 **📊 MERN Stack Certification — KGiSL MicroCollege - (Oct 2025)**
