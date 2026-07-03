@@ -1,14 +1,14 @@
 <h1 align="center">🚀 Balakamatchi S</h1>
-<h3 align="center">💻 Full Stack Developer | 📊 MERN Stack Developer | 🤖 Python Developer</h3>
+<h3 align="center">💻 Full Stack Developer | 📊 MERN Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;Python+Developer;MERN+Stack+Developer&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;MERN+Stack+Developer&center=true&width=500&height=45">
 </p>
 
 ---
 
 ## 🌈 About Me  
-Full Stack Developer with hands-on experience in MERN Stack, Django, and Flask, building scalable web applications, RESTful APIs, JWT-based authentication systems, and real-time applications. Proven ability to independently deliver end-to-end projects, from database design to deployment, including a hackathon-winning solution that secured 1st place among 1,440+ teams after advancing through multiple elimination rounds.
+Full Stack Developer with hands-on experience in MERN Stack, building scalable web applications, RESTful APIs, JWT-based authentication systems, and real-time applications. Proven ability to independently deliver end-to-end projects, from database design to deployment, including a hackathon-winning solution that secured 1st place among 1,440+ teams after advancing through multiple elimination rounds.
 
 ---
 
@@ -29,7 +29,6 @@ _Crescent Castle Public School — 89.3%_
 
 ### 💻 Languages  
 <p>
-<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python">
 <img src="https://img.shields.io/badge/JavaScript-green?style=for-the-badge&logo=javascript">
 <img src="https://img.shields.io/badge/SQL-pink?style=for-the-badge&logo=sql">
 </p>
@@ -49,8 +48,6 @@ _Crescent Castle Public School — 89.3%_
 <p>
 <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js">
 <img src="https://img.shields.io/badge/Express.js-orange?style=for-the-badge&logo=express.js">
-<img src="https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django">
-<img src="https://img.shields.io/badge/Flask-yellow?style=for-the-badge&logo=flask">
 <img src="https://img.shields.io/badge/REST API-blue?style=for-the-badge&logo=restapi">
 <img src="https://img.shields.io/badge/JWT Authentication-pink?style=for-the-badge&logo=jwtauthentication">
 </p>
@@ -59,7 +56,6 @@ _Crescent Castle Public School — 89.3%_
 <p>
 <img src="https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb">
 <img src="https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql">
-<img src="https://img.shields.io/badge/SQLite-lightblue?style=for-the-badge&logo=sqlite">
 </p>
 
 ### 🛠️ Tools & Deployment  
@@ -91,15 +87,18 @@ _Crescent Castle Public School — 89.3%_
 🥇 MERNATHON Hackathon Winner  
 💻 MERN Stack (MongoDB, Express.js, React.js, Node.js) — Built a MERN-stack attendance system that validates office IP addresses to automatically prevent proxy/buddy logins, removing the need for manual attendance audits. Implemented JWT-based role authentication for admins and employees, with secured API routes and a real-time dashboard for tracking attendance as employees check in. Led full-stack development (frontend + backend) team advanced through multiple rounds to win MERNATHON 2025.
 
-💼 **Job Management System**   
-💻 Django, Python, SQLite, Bootstrap 5, HTML/CSS — Developed a Django-based job portal connecting recruiters and job seekers through a centralized, role-based platform. Built recruiter and job-seeker dashboards supporting job posting, application tracking, and vacancy management. Implemented application status updates (Accepted/Rejected) using Django's ORM and backend logic.
+💼 **Blossom Corner - Flower Bouquet E-Commerce Website**   
+💻 MongoDB, Express.js, React.js, Node.js — Developed a full-stack e-commerce web application for a flower shop using the MERN stack. Implemented product management, shopping cart, user authentication, and order management with a responsive React frontend. Built RESTful APIs with Express.js and Node.js, integrated MongoDB for data storage, and performed CRUD operations for products, users, and orders.
 
 ---
 
 ## 📜 INTERNSHIPS & TRAINING
 
+**📊 MERN Stack Developer Training — Besant Technologies, Velachery - (June 2026 - Present)**              
+•	Completed MERN stack training and Developed Blossom Corner, a responsive flower bouquet e-commerce web application using the MERN, with features including user authentication, product management, shopping cart, order management, and RESTful API integration. 
+
 **📊 MERN Stack Certification — KGiSL MicroCollege - (Oct 2025)**
-•	Completed an intensive MERN stack training program sponsored by Naan Mudhalvan and the Tamil Nadu Skill Development Corporation.
+• Completed an intensive MERN Stack training program sponsored by Naan Mudhalvan and the Tamil Nadu Skill Development Corporation, and developed IP Attend, an IP-based employee attendance system using the MERN Stack. 
 
 **🌐 Web Development Intern — InternPE, Jaipur (Remote) -	(Apr 2024)**
 •	Completed a certificate-based web development program building responsive web pages and a functional calculator application using HTML, CSS, and JavaScript.
