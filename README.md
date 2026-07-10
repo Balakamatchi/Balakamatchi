@@ -186,7 +186,7 @@ Built responsive web pages and a functional calculator application using HTML, C
 <a href="https://github.com/Balakamatchi"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
 </div>
 
----
+
 
 <p align="center">
   <em>Open to Full Stack and SQL Developer roles. Let's build something.</em>
