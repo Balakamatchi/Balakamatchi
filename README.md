@@ -1,17 +1,14 @@
-<h1 align="center">👋 Hi, I'm Balakamatchi S</h1>
+<h1 align="center">🚀 Balakamatchi S</h1>
 
-<h3 align="center">🚀 Full Stack Developer · MERN Stack · SQL · IoT + ML</h3>
+<h3 align="center">💻 Full Stack Developer | 📊 MERN Stack Developer | SQL Developer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;SQL+Developer;Hackathon+Winner+🏆&center=true&width=500&height=50&color=7B00FF&background=00000000">
-</p>
 
 <p align="center">
-  <a href="mailto:balakamatchisaravanan15@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/balakamatchi-s"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Balakamatchi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="tel:+918148443604"><img src="https://img.shields.io/badge/+91 81484 43604-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;MERN+Stack+Developer&center=true&width=500&height=45">
+
 </p>
+
 
 ---
 
@@ -129,6 +126,8 @@ An IoT and ML-based crop recommendation system using real-time soil, weather, an
 
 **Stack:** Flask · Python · Machine Learning · Arduino · HTML/CSS
 
+[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Balakamatchi/Smart_Farmer_Advisory_System)
+
 ---
 
 ## 🎓 Education
@@ -161,10 +160,10 @@ Built responsive web pages and a functional calculator application using HTML, C
 
 | | Achievement | Date |
 |---|---|---|
+| 📜 | **HackerRank SQL (Basic) Certification** — [View Certificate](https://www.hackerrank.com/certificates/601d053f9205) | Jun 2026 |
+| 🏅 | **ISTE Best Student Award** — Academic & technical excellence | Feb 2026 |
 | 🥇 | **MERNATHON 2025 Winner** — 1st place among 1,440+ teams | Sept 2025 |
-| 🏅 | **ISTE Best Student Award** — Academic & technical excellence | 2025 |
 | 🎓 | **Class Topper** — B.E. CSE (II Year), CSI College of Engineering | Apr 2024 |
-| 📜 | **HackerRank SQL (Basic) Certification** — [View Certificate](https://www.hackerrank.com/certificates/601d053f9205) | Jun 2025 |
 
 ---
 
@@ -184,3 +183,27 @@ Built responsive web pages and a functional calculator application using HTML, C
 <p align="center">
   <em>Open to Full Stack and SQL Developer roles. Let's build something.</em>
 </p>
+
+
+
+---
+
+
+
+## 📫 Connect With Me  
+
+
+
+<p align="center">
+
+<a href="mailto:balakamatchisaravanan15@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+
+<a href="https://linkedin.com/in/balakamatchi-s"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+
+<a href="https://github.com/Balakamatchi"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+
+</p>
+
+
+
+---
