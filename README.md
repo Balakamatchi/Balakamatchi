@@ -1,6 +1,6 @@
 <h1 align="center">🚀 Balakamatchi S</h1>
 
-<h3 align="center">💻 Full Stack Developer | 📊 MERN Stack Developer | SQL Developer</h3>
+<h3 align="center">💻 Full Stack Developer | 📊 MERN Stack Developer | 🗄️ SQL Developer</h3>
 
 
 <p align="center">
@@ -180,15 +180,11 @@ Built responsive web pages and a functional calculator application using HTML, C
 
 ## 📫 Connect With Me  
 
-<p align="center">
-
+<div align="center">
 <a href="mailto:balakamatchisaravanan15@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
-
 <a href="https://linkedin.com/in/balakamatchi-s"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-
 <a href="https://github.com/Balakamatchi"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
-
-</p>
+</div>
 
 ---
 
