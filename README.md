@@ -178,19 +178,7 @@ Built responsive web pages and a functional calculator application using HTML, C
 
 ---
 
-<p align="center">
-  <em>Open to Full Stack and SQL Developer roles. Let's build something.</em>
-</p>
-
-
-
----
-
-
-
 ## 📫 Connect With Me  
-
-
 
 <p align="center">
 
@@ -202,6 +190,10 @@ Built responsive web pages and a functional calculator application using HTML, C
 
 </p>
 
+---
 
+<p align="center">
+  <em>Open to Full Stack and SQL Developer roles. Let's build something.</em>
+</p>
 
 ---
